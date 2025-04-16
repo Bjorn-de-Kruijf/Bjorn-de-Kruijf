@@ -1,4 +1,13 @@
 ## Hi there 👋
+## Welcome to my profile
+
+Some information about me:
+
+🏠 The Netherlands
+🎓 Obtaining PhD in Lifelong Learning and the labour market @University of Groningen
+🎓 MSc Economics @university of Groningen
+🎓 MSc Philosophy, Politics & Economics @university of Groningen
+⌨️ Stata & R
 
 <!--
 **Bjorn-de-Kruijf/Bjorn-de-Kruijf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +15,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
